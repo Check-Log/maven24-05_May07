@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>maven24-05_May06</artifactId>
+  <artifactId>maven24-05_May07</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>maven24-05_May06 Maven Webapp</name>
+  <name>maven24-05_May07 Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -29,7 +29,7 @@
   </dependencies>
 
   <build>
-    <finalName>maven24-05_May06</finalName>
+    <finalName>maven24-05_May07</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
@@ -68,9 +68,9 @@
   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>24-05_May05</id>
-      <name>24-05_May05</name>
-      <url>https://github.com/Check-Log/24-05_May05.git</url>
+      <id>24-05_May07</id>
+      <name>24-05_May07</name>
+      <url>https://github.com/Check-Log/24-05_May07.git</url>
       <layout>default</layout>
     </repository>
   </distributionManagement>
